@@ -14,3 +14,7 @@ def func(a,b):
 # COMMAND ----------
 
 func(5,10)
+
+# COMMAND ----------
+
+dbdemos.install('identity-pk-fk')
